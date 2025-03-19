@@ -3,5 +3,5 @@ pillow
 numpy
 rembg
 onnxruntime
-opencv-python
+opencv-python-headless
 watchdog
