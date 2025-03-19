@@ -1,5 +1,6 @@
 streamlit
 pillow
 numpy
-pandas
 rembg
+onnxruntime
+opencv-python
