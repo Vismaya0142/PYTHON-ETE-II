@@ -1,0 +1,1 @@
+web: streamlit run gothilla.py 
